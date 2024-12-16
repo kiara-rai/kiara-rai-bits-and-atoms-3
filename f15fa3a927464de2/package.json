@@ -1,0 +1,14 @@
+{
+  "name": "f15fa3a927464de2",
+  "main": "f15fa3a927464de2@393.js",
+  "version": "393.0.0",
+  "homepage": "https://observablehq.com/d/f15fa3a927464de2",
+  "author": {
+    "name": "data sets",
+    "url": "https://observablehq.com/@data-sets"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
